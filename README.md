@@ -1,2 +1,6 @@
-# awesome-powershell-scripting-resources
-Awesome PowerShell Scripting Resources
+# **`Awesome`** PowerShell Scripting Resources
+
+
+### Books
+
+### Videos
