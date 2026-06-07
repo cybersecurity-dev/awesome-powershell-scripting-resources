@@ -31,6 +31,7 @@
 ### Books
 
 ### Videos
+- [PowerShell Unit and Infrastructure Testing by Jaap Brasser, Justin Grote](https://youtu.be/q88Aq9suw2w?si=02Pk_xKM-U62h9fv)
 
 ##
 
@@ -42,5 +43,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-powershell-scripting-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-powershell-scripting-resources-)
